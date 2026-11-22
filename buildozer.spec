@@ -12,6 +12,7 @@ android.api = 35
 android.minapi = 23
 android.archs = arm64-v8a, armeabi-v7a
 android.allow_backup = False
+android.accept_sdk_license = True
 
 [buildozer]
 log_level = 2
